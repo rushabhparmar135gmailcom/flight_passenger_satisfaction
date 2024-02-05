@@ -32,8 +32,28 @@ We use two models as part of the comparative study:
 
 We observe that Random Forest performs better compared to Logistic Regression, in every metrics
 Metrics : 
-Logistic Regression	0.8692	0.8451	0.8297	0.9013	0.8640	0.7321
-Random Forest	0.9791	0.9817	0.9897	0.9651	0.9738	0.9573
+Logistic Regression	
+
+Accuracy - 0.8692	
+
+F1 Score - 0.8451	
+
+Recall - 0.8297	
+
+Precision - 0.9013	
+
+Kappa - 0.7321
+Random Forest	
+
+Accuracy - 0.9790
+
+F1 Score - 0.9817
+
+Recall - 0.9897
+
+Precision - 0.9651
+
+Kappa - 0.9573
 
 
 
